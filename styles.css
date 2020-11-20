@@ -1,5 +1,9 @@
 /*Here goes*/
 
+body {
+  background-color: blue;
+}
+
 p {
   color: red;
-  }
+}
